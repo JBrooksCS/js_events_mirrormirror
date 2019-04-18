@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+html{
+    height: 100%;
+}
+h1{
+    text-align: center;
+}
+
+.input-div{
+    display: flex;
+    padding-left: 10%;
+    padding-bottom: 10px;
+}
+
+
+
+.receiver-div{
+    display: flex;
+    justify-content: space-evenly;
+}
+#copycat1{
+    border: 1px solid red;
+}
+#copycat2{
+    border: 1px solid blue;
+}
+
+
